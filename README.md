@@ -2,6 +2,8 @@
 
 ### 💻 Estudante de Ciência da Computação | Técnico em Desenvolvimento de Sistemas
 
+### Link do meu [Portfólio](https://raysantiago07.github.io/meu-portfolio/)
+
 Sou estudante de **Ciência da Computação na Universidade Federal do Ceará (UFC)** e tenho formação técnica em Desenvolvimento de Sistemas.
 
 Minha trajetória na tecnologia começou durante o ensino técnico, quando tive contato com desenvolvimento web e mobile, programação, testes de software e design de interfaces. Atualmente, continuo expandindo meus conhecimentos na graduação e explorando novas possibilidades na área de tecnologia.
