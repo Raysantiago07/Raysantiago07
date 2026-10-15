@@ -82,8 +82,7 @@ Alguns projetos desenvolvidos durante minha formação técnica:
 Se quiser conhecer meus projetos ou trocar ideias sobre tecnologia, fique à vontade para entrar em contato!
 
 - 🐙 GitHub: [@Raysantiago07](https://github.com/Raysantiago07)
-- 💼 LinkedIn: [Adicione aqui seu perfil](https://www.linkedin.com/)
-- ✉️ E-mail: [Adicione aqui seu e-mail profissional](mailto:seuemail@exemplo.com)
+- 💼 LinkedIn: [Ray Santiago](www.linkedin.com/in/raysantiagoo)
 
 ---
 
