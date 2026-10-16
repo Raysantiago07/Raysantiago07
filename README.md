@@ -42,22 +42,6 @@ Também tive contato com lógica de programação, programação orientada a obj
 
 ---
 
-## 📂 Projetos
-
-Alguns projetos desenvolvidos durante minha formação técnica:
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Lista de afazeres domésticos](https://github.com/Raysantiago07/projeto2-lista-de-afazeres-domesticos) | Projeto de lista de tarefas | TypeScript |
-| [Tela de login](https://github.com/Raysantiago07/projeto3-tela-de-login) | Prática de desenvolvimento de interfaces | TypeScript |
-| [Sistema de login](https://github.com/Raysantiago07/projeto4-sistema-de-login) | Projeto de estudo de uma aplicação de login | TypeScript |
-| [Contador de números](https://github.com/Raysantiago07/projeto-coletivo-2ds-contador-de-numeros) | Projeto coletivo desenvolvido durante o curso técnico | JavaScript |
-| [Projeto Seja DRM](https://github.com/Raysantiago07/projeto1-seja-DRM) | Projeto desenvolvido durante a formação | TypeScript |
-
-🔎 **[Confira todos os meus repositórios no GitHub](https://github.com/Raysantiago07?tab=repositories)**
-
----
-
 ## 🎯 Áreas de interesse
 
 - 💻 Desenvolvimento de software
