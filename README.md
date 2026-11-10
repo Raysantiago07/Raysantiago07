@@ -16,8 +16,7 @@ Gosto de aprender na prática, resolver problemas e transformar ideias em projet
 
 - 🎓 Graduando em Ciência da Computação na UFC.
 - 📚 Técnico em Desenvolvimento de Sistemas.
-- 💡 Interesse em desenvolvimento de software, qualidade de software e UX/UI.
-- 🎨 Experiência acadêmica com Figma, design de interfaces e usabilidade.
+- 💡 Áreas de interesse: Desenvolvimento de software, UX/UI, design de interfaces e programação em geral.
 - 🌱 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 ---
