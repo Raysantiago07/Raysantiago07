@@ -16,7 +16,7 @@ Gosto de aprender na prática, resolver problemas e transformar ideias em projet
 
 - 🎓 Graduando em Ciência da Computação na UFC.
 - 📚 Técnico em Desenvolvimento de Sistemas.
-- 💡 Áreas de interesse: Desenvolvimento de software, UX/UI, design de interfaces e programação em geral.
+- 💡 Áreas de interesse: Desenvolvimento de software, UX/UI, Design de interfaces e Programação em geral.
 - 🌱 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 ---
