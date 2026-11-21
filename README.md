@@ -66,7 +66,7 @@ Também tive contato com lógica de programação, programação orientada a obj
 Se quiser conhecer meus projetos ou trocar ideias sobre tecnologia, fique à vontade para entrar em contato!
 
 - 🐙 GitHub: [@Raysantiago07](https://github.com/Raysantiago07)
-- 💼 LinkedIn: [Ray Santiago](www.linkedin.com/in/raysantiagoo)
+- 💼 LinkedIn: [@Ray Santiago](https://www.linkedin.com/in/raysantiagoo)
 
 ---
 
